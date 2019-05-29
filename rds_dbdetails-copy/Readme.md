@@ -32,6 +32,6 @@ An API that gets rds-db-details developed to deploy in AWS Lambda function.
 
     #curl https://b6pjzp3nmc.execute-api.us-east-1.amazonaws.com/dbdetails/dbdetails
 
-**Use below url for postman(GET) or browser:**
+*Use below url for postman(GET) or browser:*
 
     https://b6pjzp3nmc.execute-api.us-east-1.amazonaws.com/dbdetails/dbdetails
